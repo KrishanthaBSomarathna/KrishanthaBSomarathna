@@ -29,20 +29,7 @@ Since I'm (still) a Understand At SLIIT , I also like to share my code so others
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishanthaBSomarathna&&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishanthaBSomarathna&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>
 
-### Top Repositories
 
-* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
-* [AWS Image Service](https://github.com/gnomezgrave/aws-s3-image-service)
-* [Pull Request Reports](https://github.com/gnomezgrave/pull-request-reports)
-* [Copy DynamoDB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [Qt Auto Translator](https://github.com/gnomezgrave/qt-auto-translator)
-* [Copy Dynamo DB Table](https://github.com/gnomezgrave/copy-dynamodb-table)
-* [A-Star Algorithm](https://github.com/gnomezgrave/A-Star)
-
-### Wanna read my articles?
-
-* <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -52,7 +39,7 @@ Since I'm (still) a Understand At SLIIT , I also like to share my code so others
 
 - 🌱 I’m currently learning **React, DevOps, Android**
 
-- 👨‍💻 All of my projects are available at [krishantha.com](krishantha.com)
+- 👨‍💻 All of my projects are available at [Portfolio](krishantha.com)
 
 - 💬 Ask me about **java, Android, Website**
 
