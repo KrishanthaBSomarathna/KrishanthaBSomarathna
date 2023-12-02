@@ -41,7 +41,7 @@ Since I'm (still) a Understand At SLIIT , I also like to share my code so others
 
 - 🌱 I’m currently learning **React, DevOps, Android**
 
-- 👨‍💻 All of my projects are available at [Portfolio](krishantha.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://krishanthabsomarathnaa.on.drv.tw/portfolio/)
 
 - 💬 Ask me about **java, Android, Website**
 
