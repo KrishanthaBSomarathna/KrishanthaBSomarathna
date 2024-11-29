@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
-I love to share knowledge with the rest of the world.
-
-Since I'm (still) a undergraduate At SLIIT , I also like to share my code so others can make use of them.
+I hold a First Class BSc (Hons) degree in Computer Science and Software Engineering, with a specialization in Software 
+Technology, from the University of SLIIT. My strong foundation in development and operations, coupled with hands-on 
+project experience, reflects my proactive approach to learning and problem-solving in real-world scenarios. I am currently 
+seeking an internship that leverages my interests in data science and DevOps, with a particular focus on data analysis. My 
+goal is to further enhance my expertise while contributing effectively to a dynamic and growth-oriented environment. 
 
 ### My stats
 
